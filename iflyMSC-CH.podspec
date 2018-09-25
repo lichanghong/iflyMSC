@@ -6,8 +6,8 @@
 # To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-    s.name             = 'iflyMSC'
-    s.version          = '0.1.0'
+    s.name             = 'iflyMSC-CH'
+    s.version          = '0.1.1'
     s.summary      = "科大讯飞语音听写开发包"
     s.description  = "科大讯飞语音听写开发包，2018.09.25"
     s.homepage     = "https://github.com/lichanghong/iflyMSC.git"
